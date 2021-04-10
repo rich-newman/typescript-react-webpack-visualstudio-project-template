@@ -1,3 +1,5 @@
+# TypeScript with React HTML Application Template
+
 **What It Is**
 
 A template for new projects in Visual Studio 2017 and Visual Studio 2019 that creates an HTML application with TypeScript that can use React and other Node modules.
@@ -6,7 +8,11 @@ The project contains an HTML file, a CSS file and a TypeScript file with some ba
 
 **What It Does**
 
-When started with F5 a project created with this template will start a web server, IIS Express, and show a ticking time in the selected web browser.  The code to show the time is in a TypeScript class.
+When started with F5 a project created with this template will start a web server, IIS Express, and show a ticking time in the selected web browser.  The code to show the time is in a TypeScript class which creates and renders a React component.
+
+**Installation**
+
+The built template can be installed from [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Rich-Newman.ReactTypeScriptHTMLApplicationTemplate).
 
 **Debugging in Visual Studio**
 
