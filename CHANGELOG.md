@@ -5,6 +5,6 @@ on the official Visual Studio extension gallery.
 
 ## 1.0
 
-**2021-04-05**
+**2021-04-10**
 
 - Initial version
