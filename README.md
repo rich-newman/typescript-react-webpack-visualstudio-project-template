@@ -12,7 +12,7 @@ When started with F5 a project created with this template will start a web serve
 
 **Installation**
 
-The built template can be installed from [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Rich-Newman.ReactTypeScriptHTMLApplicationTemplate).
+The built template can be installed from [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Rich-Newman.ReactTypeScriptHTMLApplicationTemplate), or from within Visual Studio. Search for 'React TypeScript HTML Application Template' in the extensions dialog.
 
 **Debugging in Visual Studio**
 
