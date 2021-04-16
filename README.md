@@ -8,7 +8,7 @@ The project contains an HTML file, a CSS file and a TypeScript file with some ba
 
 **What It Does**
 
-When started with F5 a project created with this template will start a web server, IIS Express, and show a ticking time in the selected web browser.  The code to show the time is in a TypeScript class which creates and renders a React component.
+When started with F5 a project created with this template will start a web server and show a ticking time in the selected web browser, which can be Internet Explorer.  The code to show the time is in a TypeScript class which creates and renders a React component.
 
 **Installation**
 
@@ -16,7 +16,11 @@ The built template can be installed from [Visual Studio Marketplace](https://mar
 
 **Debugging in Visual Studio**
 
-This template is very similar to the [HTML Application with TypeScript template](https://marketplace.visualstudio.com/items?itemName=Rich-Newman.TypeScriptHTMLApplicationTemplate).  As in that template, this template allows debugging from Visual Studio in Chrome, Edge and Internet Explorer. Just create a project with the template, wait for the Node modules to auto-install, set a breakpoint in Visual Studio, and hit F5. There is no need to use the browser development tools. This makes the template useful as an HTML plus TypeScript playground.
+As with the [HTML Application with TypeScript template](https://marketplace.visualstudio.com/items?itemName=Rich-Newman.TypeScriptHTMLApplicationTemplate) and the [React JavaScript HTML Application Template](https://marketplace.visualstudio.com/items?itemName=Rich-Newman.ReactJavaScriptHTMLApplicationTemplate), this template allows debugging from Visual Studio in Chrome, Edge and Internet Explorer. Just create a project with the template, wait for the Node modules to auto-install, set a breakpoint in Visual Studio, and hit F5. There is no need to use the browser development tools. This makes the template useful as an HTML plus TypeScript playground.
+
+**Relationship to JavaScript Version**
+
+The project created by this template is identical to the project created by the [React JavaScript HTML Application Template](https://marketplace.visualstudio.com/items?itemName=Rich-Newman.ReactJavaScriptHTMLApplicationTemplate), except that the code is in TypeScript not JavaScript and it  uses the TypeScript compiler rather than Babel to compile.
 
 **Node Modules and Webpack**
 
