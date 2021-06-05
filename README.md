@@ -40,11 +40,11 @@ Please be aware that *this template is based on ASP<span>.</span>NET*, so you wi
 
 **Possible Warning Message**
 
-Note that when using this template you may get a warning message similar to 'Your project is built using TypeScript 4.1, but the TypeScript language service version currently in use by Visual Studio is 4.2.'   
+Note that when using this template you may get a warning message similar to 'Your project is built using TypeScript 4.2, but the TypeScript language service version currently in use by Visual Studio is 4.3.'   
 
-This can happen if the project template is using a more recent version of TypeScript than Visual Studio has access to.  However, in that case as far as I can work out both the build and the language service will use the later version, so there is no problem.
+This can happen if the project template is using a more recent version of TypeScript than Visual Studio has access to.  However, in that case both the build and the language service will use the later version, so there is actually no problem.
 
-The error message can be suppressed by giving Visual Studio access to the later version of TypeScript.  At the time of writing the template is using TypeScript 4.2 which can be [installed into Visual Studio from Marketplace](https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.typescript-42).
+The error message can be suppressed by giving Visual Studio access to the later version of TypeScript.  At the time of writing the template is using TypeScript 4.3 which can be [installed into Visual Studio from Marketplace](https://marketplace.visualstudio.com/items?itemName=TypeScriptTeam.typescript-43).
 
 **Adding More Code Files**
 
