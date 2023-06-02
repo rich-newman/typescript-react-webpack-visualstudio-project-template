@@ -3,7 +3,7 @@
 These are the changes to each version that have been released
 on the official Visual Studio extension gallery.
 
-## 1.1
+## 1.2
 
 **2023-06-02**
 
